@@ -20,10 +20,10 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 # What you will learn from this post:
 
 1. basic understanding of web scraping
-2. how to use requests module to get data
-3. how to use Beautifulsoup
-4. how to extract data from a website using classes and HTML tags
-5. dealing with images
+2. how to use requests module to GET url's
+3. how to use Beautifulsoup for parsing data from a web
+4. extracting data from a website using classes and HTML tags
+5. dealing with images using shutil library
 
 # Requirements:
 - python3
