@@ -17,6 +17,12 @@ Introduction:
 
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites using its HTML structure, In this post, I will explain basic fundaments of web scraping using python and python library Beautifulsoup.
 
+# Requirements:
+- python3
+- requests library
+- bs4 library
+- shutil library
+- Jupyter Notebook
 # What you will learn from this post:
 
 1. basic understanding of web scraping
@@ -25,9 +31,4 @@ Web scraping, web harvesting, or web data extraction is data scraping used for e
 4. extracting data from a website using classes and HTML tags
 5. dealing with images using shutil library
 
-# Requirements:
-- python3
-- requests library
-- bs4 library
-- shutil library
-- Jupyter Notebook
+
