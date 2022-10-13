@@ -2,6 +2,7 @@
 
 # Image_Scraping_using_BeatifulSoup
 Image Scraping using BeatifulSoup from https://eg.hatla2ee.com/
+
 Introduction: Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites using its HTML structure, In this post, I will explain basic fundaments of web scraping using python and python library Beautifulsoup.
 
 # Sample of Images
