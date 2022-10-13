@@ -3,6 +3,7 @@
 # Image_Scraping_using_BeatifulSoup
 Image Scraping using BeatifulSoup from https://eg.hatla2ee.com/
 
+# Sample of Images
 ![image](https://user-images.githubusercontent.com/112936318/195479872-5b48c82b-3bef-4a00-9c5b-97bb4ec29333.png)
 
 # Image-Web-Scraping-using-python
